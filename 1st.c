@@ -1,3 +1,4 @@
+// Write a program in c to check whether a number is even or odd. 
 #include<stdio.h>
 
 int main()

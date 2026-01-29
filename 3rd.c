@@ -1,3 +1,4 @@
+// Write a program in c to find sum of first n natural numbers
 #include<stdio.h>
 
 int main()
